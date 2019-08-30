@@ -11,4 +11,4 @@ SWMM_FLC is an optimization-simulation tool for Fuzzy Logic Control (FLC) by usi
 
 
 # Availability: 
-The ‘SWMM_FLC’ tool must be run after set-up the required software and optimization-simulation settings above. The urban drainage system simulation model used is EPASWMM, which is available at https://www.epa.gov/ water-research/storm-water-management-model-swmm. Data including flow and water level measurements, SWMM models, and optimal fuzzy inference system outputs;
+The ‘SWMM_FLC’ tool must be run after set-up the required software and optimization-simulation settings above. The urban drainage system simulation model used is EPASWMM, which is available at https://www.epa.gov/water-research/storm-water-management-model-swmm. Data including flow and water level measurements, SWMM models, and optimal fuzzy inference system outputs;
