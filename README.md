@@ -1,4 +1,4 @@
-# SWMM_FLC
+# SWMM_FLC: A matlab package for co-simulating fuzzy control and SWMM
 SWMM_FLC is an optimization-simulation tool for Fuzzy Logic Control (FLC) by using Matlab Package and SWMM5 [EPASWMM5 Environmental Protection Agency Stormwater Management Model](https://www.epa.gov/water-research/storm-water-management-model-swmm).This tool can be used to co-simulate Fuzzy Logic Control(FLC) and hydraulic-hydrologic process with respect to rainfall-runoff model. SWMM_FLC needs the matlab module of [MatSWMM](https://github.com/networked-systems/MatSWMM) which can simultaneously step through the modeling of SWMM5 and operating the real-time controllers on Matlab. One case study to demonstrate the usage of SWMM_FLC can be found through the [STOTEN papher](https://www.sciencedirect.com/science/article/pii/S0048969720324487). 
 
 
